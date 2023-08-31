@@ -20,12 +20,12 @@ class MyFrame extends Frame {
 
 }
 
-public class p2 extends Frame {
+public class p2_similarWaysToWrtie extends Frame {
     Label l;
     TextField t;
     Button b;
 
-    public p2() {
+    public p2_similarWaysToWrtie() {
         super("My App");
         setLayout(new FlowLayout());
         l = new Label("Name");
@@ -41,7 +41,7 @@ public class p2 extends Frame {
         // m.setSize(400, 500);
         // m.setVisible(true);
 
-        p2 p = new p2();
+        p2_similarWaysToWrtie p = new p2_similarWaysToWrtie();
         p.setVisible(true);
         p.setSize(700, 400);
         p.setLayout(new FlowLayout());

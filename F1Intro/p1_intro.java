@@ -2,7 +2,7 @@ package F1Intro;
 
 import java.awt.*;
 
-public class p1 {
+public class p1_intro {
     public static void main(String arg[]) {
 
         Frame f = new Frame("FIrst App");
